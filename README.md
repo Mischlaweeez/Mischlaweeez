@@ -1,1 +1,1 @@
-# Mischlaweez
+![Go to poultry.party!](GITHUB.png)
